@@ -1,0 +1,6 @@
+[submodule "utils/louvain-tensorflow"]
+	path = utils/louvain-tensorflow
+	url = https://github.com/prafiny/louvain-tensorflow.git
+[submodule "utils/munkres-tensorflow"]
+	path = utils/munkres-tensorflow
+	url = https://github.com/prafiny/munkres-tensorflow.git
