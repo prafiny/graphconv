@@ -1,0 +1,15 @@
+Graph Convolutional Neural Net
+
+Code tested with :
+* tensorflow 1.x compiled for CPU
+* keras 1.x
+* scikit-learn
+* scipy
+* h5py
+
+To compile the custom tensorflow :
+1. Retrieve git submodules in the repo
+2. use script utils/compile.sh
+
+To cite:
+TODO

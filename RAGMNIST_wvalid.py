@@ -19,12 +19,9 @@ from keras import backend as K
 from utils import graphs
 from math import ceil
 import tensorflow as tf
-from utils.datasets import raw_mnist_reduced_rag, raw_mnist_rotated_rag, irbi_rag, irbi_rag_crop, imagenet_rag_crop
+from utils.datasets import raw_mnist_reduced_rag, raw_mnist_rotated_rag
 
-#dataset = raw_mnist_rotated_rag
-#dataset = raw_mnist_reduced_rag
-#dataset = irbi_rag_crop
-dataset = imagenet_rag_crop
+dataset = raw_mnist_reduced_rag
 
 # In[2]:
 n_exp = 1
